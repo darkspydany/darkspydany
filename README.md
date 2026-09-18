@@ -1,104 +1,77 @@
 <div align="center">
 
-# 🎮 DANY VINCENT
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=180&section=header&text=DANY%20VINCENT&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-### `GAME DEVELOPER` • `UNITY` • `C#` • `LAPTOP TECHNICIAN`
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=GAME+DEVELOPER+%F0%9F%8E%AE;UNITY+%2B+C%23+%E2%9A%A1;CREATING+INTERACTIVE+WORLDS+%F0%9F%8C%8D;TURNING+IDEAS+INTO+GAMES+%F0%9F%9A%80"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Games+with+Unity+%F0%9F%8E%AE;Creating+with+C%23+%E2%9A%A1;Fixing+Laptops+%F0%9F%92%BB;Turning+Ideas+Into+Projects+%F0%9F%9A%80" />
+<br>
 
-✨━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✨
-
-**🎮 CREATE • 🛠️ FIX • ⚡ BUILD • 🚀 REPEAT**
-
-✨━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✨
+✨ **CREATE**   •   ⚡ **CODE**   •   🎨 **DESIGN**   •   🚀 **BUILD** ✨
 
 </div>
 
 ---
-
-## 🎮 GAMEPLAY MODE: `ON`
-
-> 🟢 **STATUS:** Creating
-> 🎯 **MISSION:** Build games & interactive experiences
-> ⚡ **SPECIAL ABILITY:** Turning ideas into working projects
-
-```text
-╔══════════════════════════════════════╗
-║          🎮 PLAYER PROFILE           ║
-╠══════════════════════════════════════╣
-║                                      ║
-║  👤 Dany Vincent                     ║
-║                                      ║
-║  🎮 Game Developer                   ║
-║  💻 Laptop Technician                ║
-║  ⚡ Unity + C#                       ║
-║                                      ║
-╚══════════════════════════════════════╝
-```
-
----
-
-## 🕹️ GAME DEVELOPMENT
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=unity,cs" />
+## 🎮 GAMEPLAY MODE
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="500"/>
+
+<br>
+
+### ⚡ `PLAYER INITIALIZED`
+
+**Dany Vincent**
+🎮 Game Developer
+🧩 Unity Developer
+⚡ C# Programmer
 
 </div>
-
-I create games using **Unity and C#**, focusing on gameplay, player mechanics, UI and interactive systems.
-
-### ⚔️ GAME SYSTEMS
-
-```text
-🎮 Player Controller
-🕹️ Movement & Jump Systems
-⚔️ Gameplay Mechanics
-❤️ Health & Life Systems
-🪙 Collectibles
-🎯 Quest Systems
-🖥️ Custom UI / HUD
-🌍 3D Environments
-🎬 Scene Management
-⚙️ Game Optimization
-```
 
 ---
 
-## 💻 TECHNICIAN MODE
+## 🕹️ ABOUT ME
+
+I'm a **Game Developer** focused on creating games with **Unity and C#**.
+
+I enjoy building gameplay systems, experimenting with mechanics, designing UI and turning ideas into playable experiences.
 
 <div align="center">
 
-### 🔧 `SYSTEM REPAIR INITIALIZED...`
-
-⚡ Diagnosing...
-🔍 Troubleshooting...
-🛠️ Repairing...
-✅ System Ready!
+✨ ─────────────── ✨
+**GAME DEVELOPMENT IS THE MISSION**
+✨ ─────────────── ✨
 
 </div>
 
-### 🧰 Hardware
+---
 
-* 💻 Laptop diagnosis
-* 🔧 PC troubleshooting
-* 💾 RAM & SSD upgrades
-* 💿 HDD / SSD management
-* 🎮 GPU troubleshooting
-* 🔊 Audio troubleshooting
-* 📡 Network troubleshooting
-* ⚙️ BIOS & boot problems
-* 🧩 Hardware compatibility
+## ⚔️ GAME SYSTEMS
 
-### 🖥️ Software
+<div align="center">
 
-* Windows
-* Ubuntu / Linux
-* VS Code
-* Git & GitHub
-* C
-* C#
-* Unity
+<img src="https://skillicons.dev/icons?i=unity,cs"/>
+
+<br><br>
+
+🎮 **Player Controllers**   
+🕹️ **Movement Systems**   
+⚔️ **Gameplay Mechanics**
+
+<br>
+
+❤️ **Health Systems**   
+🪙 **Collectibles**   
+🎯 **Quest Systems**
+
+<br>
+
+🖥️ **Game UI / HUD**   
+🌍 **3D Environments**   
+🎬 **Scene Management**
+
+</div>
 
 ---
 
@@ -106,15 +79,18 @@ I create games using **Unity and C#**, focusing on gameplay, player mechanics, U
 
 <div align="center">
 
-### 🎮 GAME PROJECTS
+### ✨ `PROJECT DATABASE`
 
-`[ LOADING PROJECTS... ]`
-
-✨ ████████████████████ 100%
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=1800&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=INITIALIZING+PROJECTS...;LOADING+GAMEPLAY+SYSTEMS...;LOADING+UNITY+PROJECTS...;SYSTEM+READY+%E2%9C%93"/>
 
 </div>
 
-> My projects combine **game development, programming, creativity and experimentation.**
+### 🎮 Featured Projects
+
+**🎯 Game Project**
+Unity-based game focused on gameplay mechanics, player movement, UI and interactive systems.
+
+**⚡ More Projects Coming Soon...**
 
 ---
 
@@ -122,15 +98,13 @@ I create games using **Unity and C#**, focusing on gameplay, player mechanics, U
 
 <div align="center">
 
-### 🚀 ENTER THE PORTFOLIO
-
-<a href="#">
-<img src="https://img.shields.io/badge/🎮%20VIEW%20PORTFOLIO-00F7FF?style=for-the-badge&logoColor=black"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=2200&pause=600&color=00F7FF&center=true&vCenter=true&width=600&lines=WELCOME+TO+MY+PORTFOLIO;EXPLORE+MY+WORK;ENTER+THE+DEVELOPER+ZONE"/>
 
 <br><br>
 
-**🌐 Portfolio Website — Coming Soon**
+<a href="#">
+<img src="https://img.shields.io/badge/%E2%96%B6%20ENTER%20PORTFOLIO-00F7FF?style=for-the-badge&logoColor=black"/>
+</a>
 
 </div>
 
@@ -140,64 +114,10 @@ I create games using **Unity and C#**, focusing on gameplay, player mechanics, U
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=unity,cs,c,git,github,vscode,windows,linux" />
+<img src="https://skillicons.dev/icons?i=unity,cs,c,git,github,vscode"/>
 
-</div>
+<br><br>
 
----
+`UNITY`   `C#`  
 
-## 🎯 CURRENT LOADOUT
-
-```text
-╭──────────────────────────────────────╮
-│ 🎮 GAME DEVELOPMENT                  │
-│ ██████████████████████████████       │
-│                                      │
-│ 💻 HARDWARE                          │
-│ ████████████████████████████         │
-│                                      │
-│ ⚡ C# / PROGRAMMING                  │
-│ ██████████████████████████           │
-│                                      │
-│ 🚀 CREATIVITY                        │
-│ ██████████████████████████████████   │
-╰──────────────────────────────────────╯
-```
-
----
-
-## ✨ WHAT I DO
-
-🎮 **Build Games**
-Create gameplay and interactive experiences with Unity.
-
-💻 **Fix & Troubleshoot**
-Diagnose and solve laptop and PC hardware/software problems.
-
-⚡ **Code**
-Build systems and mechanics using C# and C.
-
-🛠️ **Experiment**
-Learn by building, testing and breaking things.
-
-🚀 **Create**
-Turn ideas into real projects.
-
----
-
-<div align="center">
-
-## 🌟 KEEP BUILDING 🌟
-
-### `INSERT COFFEE ☕`
-
-### `PRESS PLAY ▶️`
-
-### `START CREATING 🎮`
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=footer"/>
-
-</div>
 
