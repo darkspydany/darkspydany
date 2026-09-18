@@ -1,40 +1,56 @@
 ## 🎯 CURRENT QUEST
 
-<img src="https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif" width="35">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2000&pause=500&color=00FF9C&center=true&vCenter=true&width=700&lines=%3E%3E+NEW+MISSION+DETECTED+%3C%3C;%3E%3E+QUEST+INITIALIZED+%3C%3C;%3E%3E+BUILDING+THE+WORLD...+%3C%3C" alt="Quest Animation"/>
+</p>
 
-### ⚔️ MAIN QUEST — `PROJECT: OPEN WORLD`
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-00ff9c?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DIFFICULTY-HARD-ff0055?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/XP-2450%2F5000-7b61ff?style=for-the-badge"/>
+</p>
 
-> **MISSION STATUS:** 🟢 ACTIVE
-> **DIFFICULTY:** ⭐⭐⭐⭐☆
-> **CLASS:** GAME DEVELOPER
+---
+
+### 🗺️ `MISSION // OPEN WORLD`
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=600&color=00FF9C&width=700&lines=Initializing+Open+World...;Generating+Gameplay+Systems...;Loading+Combat+System...;Preparing+Quest+System...;Developer+Leveling+Up..." alt="Mission Animation"/>
+</p>
 
 ```text
-╔══════════════════════════════════════════════╗
-║              🗺️ QUEST LOG                   ║
-╠══════════════════════════════════════════════╣
-║                                              ║
-║  ▶ BUILD AN OPEN-WORLD 3D GAME              ║
-║                                              ║
-║  [████████████░░░░░░░░] 60% XP              ║
-║                                              ║
-║  ✓ Learn C#                                  ║
-║  ✓ Learn Unity Basics                        ║
-║  ✓ Player Movement                           ║
-║  ✓ Camera System                             ║
-║  ✓ Jump System                               ║
-║  ✓ Basic World                               ║
-║                                              ║
-║  ⚔ Combat System            [ LOCKED ]       ║
-║  📜 Quest System             [ LOCKED ]       ║
-║  🎒 Inventory                [ LOCKED ]       ║
-║  🗺️ Open World               [ IN PROGRESS ] ║
-║  🏆 Playable Demo            [ LOCKED ]       ║
-║                                              ║
-╚══════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════╗
+║                 ⚡ ACTIVE MISSION ⚡                ║
+╠════════════════════════════════════════════════════╣
+║                                                    ║
+║  PROJECT     : OPEN WORLD 3D                       ║
+║  ENGINE      : UNITY                               ║
+║  LANGUAGE    : C#                                  ║
+║  STATUS      : 🟢 BUILDING                         ║
+║                                                    ║
+║  PROGRESS                                        ║
+║  ███████████████░░░░░░░░░  60%                   ║
+║                                                    ║
+╠════════════════════════════════════════════════════╣
+║                 QUEST OBJECTIVES                   ║
+╠════════════════════════════════════════════════════╣
+║                                                    ║
+║  ✓ Player Movement                                ║
+║  ✓ Camera System                                  ║
+║  ✓ Jump System                                    ║
+║  ✓ Basic Environment                              ║
+║  ✓ Coin Collection                                ║
+║                                                    ║
+║  ⚔ Combat System             >>> INCOMING         ║
+║  📜 Quest System              >>> INCOMING         ║
+║  🎒 Inventory                 >>> INCOMING         ║
+║  🏙️ Open World                >>> BUILDING         ║
+║  👾 Enemy AI                  >>> LOCKED           ║
+║                                                    ║
+╚════════════════════════════════════════════════════╝
 ```
 
-### ⚡ CURRENT OBJECTIVE
+### ⚡ LIVE OBJECTIVE
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=00FF88&center=false&vCenter=true&width=600&lines=Building+the+world...;Adding+new+gameplay...;Defeating+bugs...;Leveling+up+as+a+developer..." alt="Current Quest Animation" />
-
-**Next Mission →** `Combat + Quest System` ⚔️
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2200&pause=800&color=00FF9C&width=650&lines=%5B+%5B%23%23%23%23%23%23%23%23%23%23%5D+%5D+Coding...;%5B+%5B%23%23%23%23%23%23%23%23%23%23%5D+%5D+Testing...;%5B+%5B%23%23%23
